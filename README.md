@@ -6,7 +6,7 @@ Test Case 1: Valid Credentials
 Verify that users with valid credentials can successfully log in.
 
 **Steps to Reproduce:**
-1. Navigate to the login page.
+1. Navigate to the login page: www.website.com/login.
 2. Enter a valid username.
 3. Enter a valid password.
 4. Click on the "Login" button.
@@ -26,7 +26,7 @@ Test Case 2: Invalid Username
 Ensure that users with an invalid username cannot log in.
 
 **Steps to Reproduce:**
-1. Navigate to the login page.
+1. Navigate to the login page: www.website.com/login.
 2. Enter an invalid username.
 3. Enter a valid password.
 4. Click on the "Login" button.
@@ -46,7 +46,7 @@ Test Case 3: Invalid Password
 Verify that users with an invalid password cannot log in.
 
 **Steps to Reproduce:**
-1. Navigate to the login page.
+1. Navigate to the login page: www.website.com/login.
 2. Enter a valid username.
 3. Enter an invalid password.
 4. Click on the "Login" button.
@@ -66,7 +66,7 @@ Test Case 4: Empty Username and Password Fields
 Ensure the system handles empty username and password fields appropriately.
 
 **Steps to Reproduce:**
-1. Navigate to the login page.
+1. Navigate to the login page : www.website.com/login.
 2. Leave the username field empty.
 3. Leave the password field empty.
 4. Click on the "Login" button.
@@ -87,7 +87,7 @@ Confirm that the system locks the account after a specified number of consecutiv
 
 **Steps to Reproduce:**
 
-1. Navigate to the login page.
+1. Navigate to the login page :www.website.com/login.
 2. Enter an invalid username.
 3. Enter an invalid password.
 4. Repeat the above steps for the specified number of allowed attempts.
